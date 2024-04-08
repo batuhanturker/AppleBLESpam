@@ -1,6 +1,19 @@
 # AppleBLESpam
-Tool that allows you to send pop-up spam to apple devices via Bluetooth
-Tested on Raspberry Pi 4 Kali Linux 2023.4 and works fine
+
+AppleBLESpam is a tool designed to send pop-up spam messages to Apple devices via Bluetooth. It can be particularly useful for testing and demonstration purposes.
+
+## Compatibility
+
+This tool has been tested on the following platforms:
+
+- Raspberry Pi 4
+- Kali Linux 2023.4
+
+## Installation
+
+- git clone https://github.com/batuhanturker/AppleBLESpam
+- cd AppleBLESpam
+- python3 BleSpam.py
 
 ![IMG_1943](https://github.com/batuhanturker/AppleBLESpam/assets/57283569/5c47e962-9b1f-41d7-8d74-2e4f4e27f98d)
 
