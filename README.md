@@ -7,7 +7,7 @@ AppleBLESpam is a tool designed to send pop-up spam messages to Apple devices vi
 This tool has been tested on the following platforms:
 
 - Raspberry Pi 4
-- Kali Linux 2023.4
+- Kali Linux 2024.1
 
 ## Installation
 
